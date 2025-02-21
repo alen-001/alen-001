@@ -1,6 +1,6 @@
-## ✨ Hello There!:*  
+##  👋🏻 *Hello There!*
 
-#### My name is *Alen*, and I’m an **EE major** from NSUT, Delhi   
+#### ✨ My name is *Alen*, and I’m an **EE major** from NSUT, Delhi   
 I **love** building stuff and solving *real-life* problems.  
 💡 Spending **6 hours** automating a task that should’ve taken **6 minutes**? Count me in!:) 
 
@@ -27,7 +27,7 @@ I **love** building stuff and solving *real-life* problems.
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alen-shaju) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alenshaju201@gmail.com) 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote coz why not
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
